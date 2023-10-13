@@ -1,6 +1,6 @@
 # Max Social Links
 
-![Logo](./static/img/logo.png)
+![Logo](./static/img/model.jpg)
 
 Max Social Links é um projeto que oferece links para as redes sociais da Max Internet, permitindo que os visitantes acessem facilmente as redes sociais da empresa.
 
